@@ -4,15 +4,23 @@ public class EnemyMovement : MonoBehaviour
 {
     [field: SerializeField]
     public float Speed { get; private set; } = 1f;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
+    [field: SerializeField]
+    public Waypoint Target { get; private set; }
+
     void Update()
+{
+    if (Target == null) return;
+
+    transform.position = Vector3.MoveTowards(
+        transform.position,
+        Target.transform.position,
+        Speed * Time.deltaTime
+    );
+
+    if (transform.position == Target.transform.position)
     {
-        transform.position += new Vector3(0.1f, 0, 0) * Time.deltaTime;
+        Target = Target.Next; // move to next waypoint
     }
+}
 }
