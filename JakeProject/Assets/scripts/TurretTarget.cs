@@ -15,14 +15,10 @@ public class TurretTarget : MonoBehaviour
         if (Model == null) return;
         if (AreaOfEngagement.Targets.Count == 0) return;
 
-        // Remove any null targets (in case an enemy was destroyed)
         AreaOfEngagement.Targets.RemoveAll(t => t == null);
-
         if (AreaOfEngagement.Targets.Count == 0) return;
 
-        Vector3 targetPosition = AreaOfEngagement.Targets[0].position;
-
-        // Lock Y axis so turret only rotates horizontally, never tilts up or down
+        Vector3 targetPosition = AreaOfEngagement.Targets[0].transform.position;
         targetPosition.y = Model.transform.position.y;
 
         Model.transform.LookAt(targetPosition);
