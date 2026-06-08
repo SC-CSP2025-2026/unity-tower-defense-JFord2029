@@ -1,3 +1,4 @@
+// EnemyMovement.cs
 using UnityEngine;
 
 public class EnemyMovement : MonoBehaviour
@@ -6,7 +7,7 @@ public class EnemyMovement : MonoBehaviour
     public float Speed { get; private set; } = 1f;
 
     [field: SerializeField]
-    public Waypoint Target { get; private set; }
+    public Waypoint Target { get; set; } // changed to public setter
 
     void Start()
     {
