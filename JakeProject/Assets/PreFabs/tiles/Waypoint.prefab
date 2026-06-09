@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6911553995648000116}
   - component: {fileID: 5680665248039726296}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Waypoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -57,7 +57,7 @@ GameObject:
   - component: {fileID: 5179481233665201984}
   - component: {fileID: 5617218350528133050}
   - component: {fileID: 6310245635517522909}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8207655409645625688}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Enemy Spawner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43,7 +43,7 @@ GameObject:
   - component: {fileID: 1709038309210553734}
   - component: {fileID: 2638299236627842505}
   - component: {fileID: 4626468118694472432}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: spawn-square
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4608522800784946183}
   - component: {fileID: 2875853261714789132}
   - component: {fileID: 7159935162815844472}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: tile-spawn-end-round
   m_TagString: Untagged
   m_Icon: {fileID: 0}
