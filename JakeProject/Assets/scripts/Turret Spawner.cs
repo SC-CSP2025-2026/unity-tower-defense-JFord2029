@@ -1,10 +1,10 @@
-// TurretSpawner.cs (fully updated)
+// TurretSpawner.cs (updated with public TurretPrefab setter and parent transform)
 using UnityEngine;
 
 public class TurretSpawner : MonoBehaviour
 {
     [field: SerializeField]
-    public GameObject TurretPrefab { get; private set; }
+    public GameObject TurretPrefab { get; set; } // public setter for button wiring
 
     [field: SerializeField]
     public GameObject TargetGrid { get; private set; }
@@ -80,7 +80,8 @@ public class TurretSpawner : MonoBehaviour
     {
         if (!CanSpawn(tileController)) return;
 
-        GameObject turret = Instantiate(TurretPrefab);
+        // Spawn as child of PlayerController so GoldGenerator can find it via GetComponentInParent
+        GameObject turret = Instantiate(TurretPrefab, Controller.transform);
         turret.transform.position = tileController.transform.position;
         tileController.IsOccupied = true;
         Controller.Gold -= 50;
