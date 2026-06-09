@@ -1,4 +1,4 @@
-// TurretSpawner.cs
+// TurretSpawner.cs (fully updated)
 using UnityEngine;
 
 public class TurretSpawner : MonoBehaviour
@@ -9,13 +9,18 @@ public class TurretSpawner : MonoBehaviour
     [field: SerializeField]
     public GameObject TargetGrid { get; private set; }
 
+    [field: SerializeField]
+    public PlayerController Controller { get; private set; }
+
     void OnEnable()
     {
+        Controller.InfoLabel.text = "Select a Tile";
         ListenToTilesIn(TargetGrid);
     }
 
     void OnDisable()
     {
+        Controller.InfoLabel.text = "Click Build to Place a Turret";
         StopListeningToTilesIn(TargetGrid);
     }
 
@@ -26,6 +31,8 @@ public class TurretSpawner : MonoBehaviour
         foreach (TileController tile in grid.GetComponentsInChildren<TileController>())
         {
             tile.OnCursorClick.AddListener(SpawnTurret);
+            tile.OnCursorEnter.AddListener(ShowInfo);
+            tile.OnCursorExit.AddListener(HideInfo);
         }
     }
 
@@ -36,15 +43,48 @@ public class TurretSpawner : MonoBehaviour
         foreach (TileController tile in grid.GetComponentsInChildren<TileController>())
         {
             tile.OnCursorClick.RemoveListener(SpawnTurret);
+            tile.OnCursorEnter.RemoveListener(ShowInfo);
+            tile.OnCursorExit.RemoveListener(HideInfo);
         }
+    }
+
+    bool CanSpawn(TileController tileController)
+    {
+        if (tileController.IsOccupied) return false;
+        if (Controller.Gold < 50) return false;
+        return true;
+    }
+
+    void ShowInfo(TileController tileController)
+    {
+        if (tileController.IsOccupied)
+        {
+            Controller.InfoLabel.text = "Cannot build here";
+        }
+        else if (Controller.Gold < 50)
+        {
+            Controller.InfoLabel.text = "<color=red>Not enough gold";
+        }
+        else
+        {
+            Controller.InfoLabel.text = "50 Gold - Place Turret";
+        }
+    }
+
+    void HideInfo(TileController tileController)
+    {
+        Controller.InfoLabel.text = "Select a Tile";
     }
 
     public void SpawnTurret(TileController tileController)
     {
-        if (tileController.IsOccupied) return;
+        if (!CanSpawn(tileController)) return;
 
         GameObject turret = Instantiate(TurretPrefab);
         turret.transform.position = tileController.transform.position;
         tileController.IsOccupied = true;
+        Controller.Gold -= 50;
+
+        gameObject.SetActive(false);
     }
 }
