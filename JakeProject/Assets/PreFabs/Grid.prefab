@@ -470,6 +470,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &59699839071198772
 GameObject:
   m_ObjectHideFlags: 0
@@ -578,6 +581,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &142518357825829221
 GameObject:
   m_ObjectHideFlags: 0
@@ -654,6 +660,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &147621483723648663
 GameObject:
   m_ObjectHideFlags: 0
@@ -884,6 +893,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &183094943286063756
 GameObject:
   m_ObjectHideFlags: 0
@@ -1200,6 +1212,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &218926978493873209
 GameObject:
   m_ObjectHideFlags: 0
@@ -1758,6 +1773,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &365825180965883067
 GameObject:
   m_ObjectHideFlags: 0
@@ -1834,6 +1852,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &376643807608289280
 GameObject:
   m_ObjectHideFlags: 0
@@ -3152,6 +3173,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &597612436732385151
 GameObject:
   m_ObjectHideFlags: 0
@@ -3228,6 +3252,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &649722994338442501
 GameObject:
   m_ObjectHideFlags: 0
@@ -3304,6 +3331,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &672933527966331396
 GameObject:
   m_ObjectHideFlags: 0
@@ -3380,6 +3410,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &701733650099816496
 GameObject:
   m_ObjectHideFlags: 0
@@ -3456,6 +3489,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &720056215825923238
 GameObject:
   m_ObjectHideFlags: 0
@@ -3532,6 +3568,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &720552782655120505
 GameObject:
   m_ObjectHideFlags: 0
@@ -3608,6 +3647,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &765381275511583866
 GameObject:
   m_ObjectHideFlags: 0
@@ -3684,6 +3726,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &772365415869305157
 GameObject:
   m_ObjectHideFlags: 0
@@ -3932,6 +3977,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &812872693180567466
 GameObject:
   m_ObjectHideFlags: 0
@@ -4316,6 +4364,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &893547223950598990
 GameObject:
   m_ObjectHideFlags: 0
@@ -4392,6 +4443,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &896009883679478774
 GameObject:
   m_ObjectHideFlags: 0
@@ -4570,8 +4624,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 923597998020428098}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.89000005, y: 0, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -5098,6 +5152,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &1075046432772047062
 GameObject:
   m_ObjectHideFlags: 0
@@ -5174,6 +5231,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &1085484427001632291
 GameObject:
   m_ObjectHideFlags: 0
@@ -5250,6 +5310,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &1127929152457372613
 GameObject:
   m_ObjectHideFlags: 0
@@ -5480,6 +5543,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &1201341310213938383
 GameObject:
   m_ObjectHideFlags: 0
@@ -5710,6 +5776,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &1260043490642936534
 GameObject:
   m_ObjectHideFlags: 0
@@ -5818,6 +5887,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &1263600111474740555
 GameObject:
   m_ObjectHideFlags: 0
@@ -5894,6 +5966,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &1286532214154962953
 GameObject:
   m_ObjectHideFlags: 0
@@ -5970,6 +6045,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &1307648344453816071
 GameObject:
   m_ObjectHideFlags: 0
@@ -6078,6 +6156,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &1376103104932616498
 GameObject:
   m_ObjectHideFlags: 0
@@ -6240,6 +6321,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &1382324723191860055
 GameObject:
   m_ObjectHideFlags: 0
@@ -6502,6 +6586,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &1447676698983594195
 GameObject:
   m_ObjectHideFlags: 0
@@ -6732,6 +6819,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &1523395496257317144
 GameObject:
   m_ObjectHideFlags: 0
@@ -6962,6 +7052,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &1527781782761198870
 GameObject:
   m_ObjectHideFlags: 0
@@ -7084,6 +7177,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &1576146185942620753
 GameObject:
   m_ObjectHideFlags: 0
@@ -7314,6 +7410,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &1647387820807582501
 GameObject:
   m_ObjectHideFlags: 0
@@ -7608,6 +7707,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &1715194027108967392
 GameObject:
   m_ObjectHideFlags: 0
@@ -8002,6 +8104,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &1770668897296648280
 GameObject:
   m_ObjectHideFlags: 0
@@ -8296,6 +8401,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &1830119582329082806
 GameObject:
   m_ObjectHideFlags: 0
@@ -8372,6 +8480,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &1899262360754578223
 GameObject:
   m_ObjectHideFlags: 0
@@ -9150,6 +9261,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &2076186122380612547
 GameObject:
   m_ObjectHideFlags: 0
@@ -9344,6 +9458,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &2148311470282800574
 GameObject:
   m_ObjectHideFlags: 0
@@ -10036,6 +10153,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &2232478844721845977
 GameObject:
   m_ObjectHideFlags: 0
@@ -10448,6 +10568,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &2335315370901393901
 GameObject:
   m_ObjectHideFlags: 0
@@ -10796,6 +10919,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &2377761581992347284
 GameObject:
   m_ObjectHideFlags: 0
@@ -10904,6 +11030,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &2381657698102378007
 GameObject:
   m_ObjectHideFlags: 0
@@ -11778,6 +11907,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &2649589618314617589
 GameObject:
   m_ObjectHideFlags: 0
@@ -11854,6 +11986,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &2671408195682659150
 GameObject:
   m_ObjectHideFlags: 0
@@ -11930,6 +12065,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &2692096863492837044
 GameObject:
   m_ObjectHideFlags: 0
@@ -12006,6 +12144,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &2738659381926202922
 GameObject:
   m_ObjectHideFlags: 0
@@ -12322,6 +12463,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &2853609728299839224
 GameObject:
   m_ObjectHideFlags: 0
@@ -12874,6 +13018,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &2901568569102032555
 GameObject:
   m_ObjectHideFlags: 0
@@ -13131,17 +13278,17 @@ MonoBehaviour:
   OnEnter:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 8335135570699834715}
-        m_TargetAssemblyTypeName: TileController, Assembly-CSharp
-        m_MethodName: NotifyCursorEnter
-        m_Mode: 1
+      - m_Target: {fileID: 6104782587357320170}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 0
+          m_BoolArgument: 1
         m_CallState: 2
   OnExit:
     m_PersistentCalls:
@@ -13176,7 +13323,7 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -13784,6 +13931,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &2969227084368809494
 GameObject:
   m_ObjectHideFlags: 0
@@ -13860,6 +14010,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &2978471884766982410
 GameObject:
   m_ObjectHideFlags: 0
@@ -14244,6 +14397,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &3049758488246026211
 GameObject:
   m_ObjectHideFlags: 0
@@ -14320,6 +14476,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &3061448398560419653
 GameObject:
   m_ObjectHideFlags: 0
@@ -14396,6 +14555,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &3091412153517310110
 GameObject:
   m_ObjectHideFlags: 0
@@ -15052,6 +15214,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &3190090185175405744
 GameObject:
   m_ObjectHideFlags: 0
@@ -15400,6 +15565,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &3211108187246138851
 GameObject:
   m_ObjectHideFlags: 0
@@ -15562,6 +15730,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &3229457360519876076
 GameObject:
   m_ObjectHideFlags: 0
@@ -16558,6 +16729,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &3406792614300022254
 GameObject:
   m_ObjectHideFlags: 0
@@ -16992,6 +17166,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &3623525797648561178
 GameObject:
   m_ObjectHideFlags: 0
@@ -17068,6 +17245,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &3735923559619966602
 GameObject:
   m_ObjectHideFlags: 0
@@ -17190,6 +17370,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &3750755189135771829
 GameObject:
   m_ObjectHideFlags: 0
@@ -17352,6 +17535,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &3806906200287246319
 GameObject:
   m_ObjectHideFlags: 0
@@ -17668,6 +17854,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &3854589393846871890
 GameObject:
   m_ObjectHideFlags: 0
@@ -18388,6 +18577,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &3942733360765499859
 GameObject:
   m_ObjectHideFlags: 0
@@ -18464,6 +18656,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &3949572318021275476
 GameObject:
   m_ObjectHideFlags: 0
@@ -18540,6 +18735,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &3987735568607923231
 GameObject:
   m_ObjectHideFlags: 0
@@ -19002,6 +19200,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &4182427939432257958
 GameObject:
   m_ObjectHideFlags: 0
@@ -19110,6 +19311,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &4191747189158134303
 GameObject:
   m_ObjectHideFlags: 0
@@ -19558,6 +19762,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &4348803227646839229
 GameObject:
   m_ObjectHideFlags: 0
@@ -19666,6 +19873,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &4417069870885775808
 GameObject:
   m_ObjectHideFlags: 0
@@ -19742,6 +19952,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &4420563378573626714
 GameObject:
   m_ObjectHideFlags: 0
@@ -20344,6 +20557,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &4617632709680495519
 GameObject:
   m_ObjectHideFlags: 0
@@ -20864,6 +21080,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &4728996127353656049
 GameObject:
   m_ObjectHideFlags: 0
@@ -21126,6 +21345,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &4829549807223373473
 GameObject:
   m_ObjectHideFlags: 0
@@ -21356,6 +21578,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &4856699912588859686
 GameObject:
   m_ObjectHideFlags: 0
@@ -21876,6 +22101,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &4992811896476333016
 GameObject:
   m_ObjectHideFlags: 0
@@ -22360,6 +22588,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &5107145301277979230
 GameObject:
   m_ObjectHideFlags: 0
@@ -22722,6 +22953,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &5123901593569767103
 GameObject:
   m_ObjectHideFlags: 0
@@ -23016,6 +23250,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &5213699254204285784
 GameObject:
   m_ObjectHideFlags: 0
@@ -23418,6 +23655,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &5301319402285554787
 GameObject:
   m_ObjectHideFlags: 0
@@ -23494,6 +23734,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &5316031238786474542
 GameObject:
   m_ObjectHideFlags: 0
@@ -24272,6 +24515,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &5407490657495874820
 GameObject:
   m_ObjectHideFlags: 0
@@ -24466,6 +24712,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &5584582823982744086
 GameObject:
   m_ObjectHideFlags: 0
@@ -25644,6 +25893,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &5812398294113010936
 GameObject:
   m_ObjectHideFlags: 0
@@ -25952,6 +26204,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &5843552533554590799
 GameObject:
   m_ObjectHideFlags: 0
@@ -26114,6 +26369,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &5859937127148435830
 GameObject:
   m_ObjectHideFlags: 0
@@ -26190,6 +26448,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &5861499347627939782
 GameObject:
   m_ObjectHideFlags: 0
@@ -26352,6 +26613,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &5930856241653563649
 GameObject:
   m_ObjectHideFlags: 0
@@ -26614,6 +26878,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &5963134232380569145
 GameObject:
   m_ObjectHideFlags: 0
@@ -26754,6 +27021,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &6058577066125402080
 GameObject:
   m_ObjectHideFlags: 0
@@ -27016,6 +27286,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &6088698587751284088
 GameObject:
   m_ObjectHideFlags: 0
@@ -27092,6 +27365,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &6100161381047543194
 GameObject:
   m_ObjectHideFlags: 0
@@ -27168,6 +27444,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &6104109368877137848
 GameObject:
   m_ObjectHideFlags: 0
@@ -27244,6 +27523,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &6104782587357320170
 GameObject:
   m_ObjectHideFlags: 0
@@ -27293,7 +27575,7 @@ MonoBehaviour:
   OnCursorEnter:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 5276842052096048413, guid: 6c1a340edbf4e47019ab10f9f8de718a, type: 3}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: TileCursor, Assembly-CSharp
         m_MethodName: HandleTileEntered
         m_Mode: 0
@@ -27308,7 +27590,7 @@ MonoBehaviour:
   OnCursorExit:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 5276842052096048413, guid: 6c1a340edbf4e47019ab10f9f8de718a, type: 3}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: TileCursor, Assembly-CSharp
         m_MethodName: HandleTileExited
         m_Mode: 0
@@ -27320,6 +27602,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &6114412628447777405
 GameObject:
   m_ObjectHideFlags: 0
@@ -27550,6 +27835,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &6148526554742025477
 GameObject:
   m_ObjectHideFlags: 0
@@ -27744,6 +28032,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &6185835942446855463
 GameObject:
   m_ObjectHideFlags: 0
@@ -27974,6 +28265,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &6237523211291403380
 GameObject:
   m_ObjectHideFlags: 0
@@ -28598,6 +28892,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &6307885759150444584
 GameObject:
   m_ObjectHideFlags: 0
@@ -28760,6 +29057,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &6352726334599485892
 GameObject:
   m_ObjectHideFlags: 0
@@ -29710,6 +30010,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &6491247931509239133
 GameObject:
   m_ObjectHideFlags: 0
@@ -29896,6 +30199,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &6594616831530490052
 GameObject:
   m_ObjectHideFlags: 0
@@ -30330,6 +30636,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &6637509628056401937
 GameObject:
   m_ObjectHideFlags: 0
@@ -30800,6 +31109,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &6767695871099024037
 GameObject:
   m_ObjectHideFlags: 0
@@ -30954,6 +31266,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &6842830055509305861
 GameObject:
   m_ObjectHideFlags: 0
@@ -31030,6 +31345,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &6928179107481427169
 GameObject:
   m_ObjectHideFlags: 0
@@ -31260,6 +31578,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &7006480271360689807
 GameObject:
   m_ObjectHideFlags: 0
@@ -31336,6 +31657,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &7027647178123361333
 GameObject:
   m_ObjectHideFlags: 0
@@ -31752,6 +32076,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &7127375328911698672
 GameObject:
   m_ObjectHideFlags: 0
@@ -31914,6 +32241,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &7129375589846856976
 GameObject:
   m_ObjectHideFlags: 0
@@ -31990,6 +32320,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &7130625868821222864
 GameObject:
   m_ObjectHideFlags: 0
@@ -32392,6 +32725,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &7217997046542957426
 GameObject:
   m_ObjectHideFlags: 0
@@ -32554,6 +32890,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &7249305385465352552
 GameObject:
   m_ObjectHideFlags: 0
@@ -32784,6 +33123,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &7291018707708890538
 GameObject:
   m_ObjectHideFlags: 0
@@ -33386,6 +33728,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &7401622302886795294
 GameObject:
   m_ObjectHideFlags: 0
@@ -33462,6 +33807,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &7418333073100222375
 GameObject:
   m_ObjectHideFlags: 0
@@ -33656,6 +34004,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &7481786773851448376
 GameObject:
   m_ObjectHideFlags: 0
@@ -33874,6 +34225,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &7576611500543169286
 GameObject:
   m_ObjectHideFlags: 0
@@ -34104,6 +34458,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &7610430036431379762
 GameObject:
   m_ObjectHideFlags: 0
@@ -34212,6 +34569,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &7623089780575777848
 GameObject:
   m_ObjectHideFlags: 0
@@ -34596,6 +34956,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &7656257395930726207
 GameObject:
   m_ObjectHideFlags: 0
@@ -35270,6 +35633,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &7819539518314180153
 GameObject:
   m_ObjectHideFlags: 0
@@ -36756,6 +37122,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &8065565739301719528
 GameObject:
   m_ObjectHideFlags: 0
@@ -37236,6 +37605,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &8109528543324166271
 GameObject:
   m_ObjectHideFlags: 0
@@ -37938,6 +38310,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &8296265233366821687
 GameObject:
   m_ObjectHideFlags: 0
@@ -38100,6 +38475,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &8357620003721211154
 GameObject:
   m_ObjectHideFlags: 0
@@ -39898,6 +40276,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &8623186166218388635
 GameObject:
   m_ObjectHideFlags: 0
@@ -39974,6 +40355,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &8629113658670442733
 GameObject:
   m_ObjectHideFlags: 0
@@ -40522,6 +40906,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &8702174182613072821
 GameObject:
   m_ObjectHideFlags: 0
@@ -40684,6 +41071,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &8781776766612949391
 GameObject:
   m_ObjectHideFlags: 0
@@ -41032,6 +41422,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &8824449846499124591
 GameObject:
   m_ObjectHideFlags: 0
@@ -41108,6 +41501,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &8849108916582766239
 GameObject:
   m_ObjectHideFlags: 0
@@ -41184,6 +41580,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &8870267255655946680
 GameObject:
   m_ObjectHideFlags: 0
@@ -41292,6 +41691,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &8918870283535306910
 GameObject:
   m_ObjectHideFlags: 0
@@ -41694,6 +42096,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &8997851092136333149
 GameObject:
   m_ObjectHideFlags: 0
@@ -41770,6 +42175,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &9013394976138642004
 GameObject:
   m_ObjectHideFlags: 0
@@ -42340,6 +42748,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &9131994056730389734
 GameObject:
   m_ObjectHideFlags: 0
@@ -42656,6 +43067,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnCursorClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &9144860565208387143
 GameObject:
   m_ObjectHideFlags: 0
